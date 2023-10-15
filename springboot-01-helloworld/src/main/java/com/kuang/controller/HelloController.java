@@ -7,9 +7,9 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
 /**
- * @author Zhangxuhui
+ * @author VeniVeci
  * @Description
- * @create 2021/4/18 - 9:48
+ * @create 2021/4/18
  */
 
 @Controller
@@ -22,9 +22,5 @@ public class HelloController {
         return "hello";
     }
 
-    @GetMapping("kiki")
-    @ResponseBody
-    public String kiki(){
-        return "kiki";
-    }
+
 }

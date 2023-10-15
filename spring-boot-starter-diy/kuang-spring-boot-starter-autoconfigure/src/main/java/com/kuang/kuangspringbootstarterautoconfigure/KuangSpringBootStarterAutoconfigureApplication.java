@@ -8,6 +8,7 @@ public class KuangSpringBootStarterAutoconfigureApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(KuangSpringBootStarterAutoconfigureApplication.class, args);
+
     }
 
 }

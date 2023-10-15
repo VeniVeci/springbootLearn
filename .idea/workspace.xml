@@ -1,34 +1,138 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c46a3d70-1138-4886-b101-4c76c70bf501" name="Default Changelist" comment="" />
+    <list default="true" id="c46a3d70-1138-4886-b101-4c76c70bf501" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/kuang-spring-boot-starter-autoconfigure.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/src/main/java/com/kuang/kuangspringbootstarterautoconfigure/KuangSpringBootStarterAutoconfigureApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/src/main/java/com/kuang/kuangspringbootstarterautoconfigure/KuangSpringBootStarterAutoconfigureApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/static/qinjiang/css/qinstyle.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/static/qinjiang/js/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/static/qinjiang/js/semantic.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level1/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level1/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level1/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level2/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level2/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level2/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level3/1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level3/2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level3/3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/springboot-01-helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/Springboot01HelloworldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/Springboot01HelloworldApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/banneriu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/banner.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/Springboot01HelloworldApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/Springboot01HelloworldApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/controller/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/LoginHandlerInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/LoginHandlerInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/MyMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/MyMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/controller/LoginController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="jdkForImporter" value="1.8" />
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zXvXpeTnLmMZ9br0LdKYHuhHMr" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-03-web" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.Springboot01HelloworldApplicationTests.contextLoads">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuangSpringBootStarterAutoconfigureApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kuang-spring-boot-starter-autoconfigure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.kuangspringbootstarterautoconfigure.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang.kuangspringbootstarterautoconfigure" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.kuangspringbootstarterautoconfigure.KuangSpringBootStarterAutoconfigureApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot01HelloworldApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springboot-01-helloworld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kuang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kuang" />
+      <option name="MAIN_CLASS_NAME" value="com.kuang.Springboot01HelloworldApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KuangSpringBootStarterAutoconfigureApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="kuang-spring-boot-starter-autoconfigure" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.kuangspringbootstarterautoconfigure.KuangSpringBootStarterAutoconfigureApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot01HelloworldApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-helloworld" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot01HelloworldApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Springboot01HelloworldApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.KuangSpringBootStarterAutoconfigureApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -40,10 +144,22 @@
       <updated>1634307290598</updated>
       <workItem from="1634307291898" duration="312000" />
       <workItem from="1654658256541" duration="397000" />
+      <workItem from="1697357641987" duration="2193000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
