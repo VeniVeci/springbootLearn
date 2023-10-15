@@ -1,0 +1,30 @@
+server:
+  port:8080
+
+
+#字面量直接写在后面就可以 ， 字符串默认不用加上双引号或者单引号；
+age: 19
+name: kiki
+isempty: true
+
+
+  #注意：  所以一般不要加特殊的字符
+
+# “ ” 双引号，不会转义字符串里面的特殊字符 ， 特殊字符会作为本身想表示的意思；
+
+  #比如 ：name: "kuang \n shen"   输出 ：kuang  换行   shen
+
+#  '' 单引号，会转义特殊字符 ， 特殊字符最终会变成和普通字符一样输出
+
+#比如 ：name: ‘kuang \n shen’   输出 ：kuang  \n   shen
+
+
+
+#对象
+student:
+  name: qinjiang
+  age: 3
+
+student2: {name: qinjiang,age: 3}
+
+

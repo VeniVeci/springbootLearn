@@ -1,0 +1,29 @@
+person:
+  name: qinjiang
+  age: 12
+  happy: false
+  birth: 2000/01/01
+  maps: {k1: v1,k2: v2}
+  lists:
+    - code
+    - girl
+    - music
+  dog:
+    name: 旺财
+    age: 3
+dog:
+  name: kiki
+  age: 50
+
+server:
+  port: 8080
+spring:
+  profiles:
+    active: dev
+
+
+---
+server:
+  port: 8081
+spring:
+  profiles: dev
