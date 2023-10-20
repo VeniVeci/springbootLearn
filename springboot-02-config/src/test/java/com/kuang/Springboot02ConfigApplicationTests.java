@@ -16,7 +16,7 @@ class Springboot02ConfigApplicationTests {
     void contextLoads() {
         System.out.println(person); //打印看下狗狗对象
 
-        WebMvcAutoConfiguration
+//        WebMvcAutoConfiguration
     }
 
 

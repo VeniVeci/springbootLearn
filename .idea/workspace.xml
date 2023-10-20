@@ -4,43 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c46a3d70-1138-4886-b101-4c76c70bf501" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+    <list default="true" id="c46a3d70-1138-4886-b101-4c76c70bf501" name="Default Changelist" comment="使用contextLoads函数进行测试。">
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/src/main/java/com/dalaoyang/Springboot2PrometheusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot2_prometheus/src/test/java/com/dalaoyang/Springboot2PrometheusApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/kuang-spring-boot-starter-autoconfigure.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/src/main/java/com/kuang/kuangspringbootstarterautoconfigure/KuangSpringBootStarterAutoconfigureApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-starter-diy/kuang-spring-boot-starter-autoconfigure/src/main/java/com/kuang/kuangspringbootstarterautoconfigure/KuangSpringBootStarterAutoconfigureApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/static/qinjiang/css/qinstyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/static/qinjiang/js/jquery-3.1.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/static/qinjiang/js/semantic.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level1/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level1/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level1/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level2/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level2/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level2/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level3/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level3/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/level3/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-security-material/templates/views/login.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/springboot-01-helloworld.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/Springboot01HelloworldApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/Springboot01HelloworldApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/java/com/kuang/controller/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/banner.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/banneriu.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/banner.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/Springboot01HelloworldApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/Springboot01HelloworldApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/controller/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-01-helloworld/target/classes/com/kuang/controller/HelloController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-02-config/src/main/java/com/kuang/pojo/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/LoginHandlerInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/LoginHandlerInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/MyMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/config/MyMvcConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-03-web/src/main/java/com/kuang/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-02-config/springboot-02-config.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +34,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1zXvXpeTnLmMZ9br0LdKYHuhHMr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -66,10 +53,16 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="JUnit.Springboot01HelloworldApplicationTests.contextLoads">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JAVA\SpringBoot" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Springboot02ConfigApplication">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -127,6 +120,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Springboot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.kuang.Springboot02ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Springboot2PrometheusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot2_prometheus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dalaoyang.Springboot2PrometheusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Springboot01HelloworldApplicationTests.contextLoads" />
@@ -144,8 +151,18 @@
       <updated>1634307290598</updated>
       <workItem from="1634307291898" duration="312000" />
       <workItem from="1654658256541" duration="397000" />
-      <workItem from="1697357641987" duration="2193000" />
+      <workItem from="1697357641987" duration="5386000" />
+      <workItem from="1697458041022" duration="2709000" />
+      <workItem from="1697603741948" duration="5232000" />
     </task>
+    <task id="LOCAL-00001" summary="使用contextLoads函数进行测试。">
+      <created>1697360853934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697360853934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,5 +178,22 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="使用contextLoads函数进行测试。" />
+    <option name="LAST_COMMIT_MESSAGE" value="使用contextLoads函数进行测试。" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springboot-01-helloworld/src/test/java/com/kuang/Springboot01HelloworldApplicationTests.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

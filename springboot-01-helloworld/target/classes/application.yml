@@ -1,6 +1,24 @@
 server:
-  port:8080
-
+  port: 8080
+##暴露所有端点信息
+management:
+  endpoints:
+    enabled-by-default: true
+  #以WEB方式暴露
+  web:
+    exposure:
+      include: health,info,metrics,prometheus
+#management:
+#  endpoints:
+#    enabled-by-default: false
+#    web:
+#      exposure:
+#        include: "*"
+#    caches:
+#      enabled: true
+#    endpoint:
+#      info:
+#        enabled: true
 
 #字面量直接写在后面就可以 ， 字符串默认不用加上双引号或者单引号；
 age: 19

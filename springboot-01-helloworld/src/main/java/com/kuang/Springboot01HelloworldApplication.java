@@ -10,7 +10,7 @@ public class Springboot01HelloworldApplication {
     public static void main(String[] args) {
 //        SpringApplication.run(Springboot01HelloworldApplication.class, args);
         SpringApplication app = new SpringApplication(Springboot01HelloworldApplication.class);
-//        app.setBannerMode(Banner.Mode.CONSOLE);
+        app.setBannerMode(Banner.Mode.OFF);
         app.run(args);
     }
 
