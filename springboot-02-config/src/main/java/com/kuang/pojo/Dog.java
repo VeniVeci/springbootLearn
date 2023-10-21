@@ -16,9 +16,9 @@ import javax.validation.constraints.Min;
 @ConfigurationProperties(prefix = "dog")
 @Validated
 public class Dog {
-//    @Value("阿黄")
+    @Value("阿黄")
     private String name;
-//    @Value("18")
+    @Value("18")
     @Min(value = 5,message = "不能小于5")
     private Integer age;
 

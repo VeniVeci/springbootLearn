@@ -10,7 +10,7 @@ person:
     - music
   dog:
     name: 旺财
-    age: 3
+    age: 14
 dog:
   name: kiki
   age: 50
